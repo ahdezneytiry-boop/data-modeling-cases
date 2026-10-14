@@ -1,5 +1,9 @@
 # modeling-arsenal · 数学建模竞赛代码合集
 
+![License](https://img.shields.io/github/license/ahdezneytiry-boop/modeling-arsenal)
+![Top Language](https://img.shields.io/github/languages/top/ahdezneytiry-boop/modeling-arsenal)
+![Last Commit](https://img.shields.io/github/last-commit/ahdezneytiry-boop/modeling-arsenal)
+
 历次数学建模竞赛的代码存档，覆盖多个主流赛事与常见题型，方便回顾与复用。
 
 ## 目录
